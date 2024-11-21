@@ -1,0 +1,93 @@
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\bin\Debug\WpfInterfaz.exe.config
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\bin\Debug\WpfInterfaz.exe
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\bin\Debug\WpfInterfaz.pdb
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\bin\Debug\ControlzEx.dll
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\bin\Debug\MahApps.Metro.dll
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\bin\Debug\ControlzEx.pdb
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\bin\Debug\MahApps.Metro.pdb
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\bin\Debug\MahApps.Metro.xml
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz.csprojAssemblyReference.cache
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\obj\Debug\MainWindow.g.cs
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\obj\Debug\App.g.cs
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz_MarkupCompile.cache
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz_MarkupCompile.lref
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\obj\Debug\MainWindow.baml
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz.g.resources
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz.Properties.Resources.resources
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz.csproj.GenerateResource.cache
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz.csproj.CoreCompileInputs.cache
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz.csproj.CopyComplete
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz.exe
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz.pdb
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\obj\Debug\Resources\Icons.baml
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\obj\Debug\App.baml
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\bin\Debug\Biblioteca OnBreak.dll
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\bin\Debug\Biblioteca OnBreak.pdb
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\obj\Debug\AdminContratos.g.cs
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\obj\Debug\AdminContratos.baml
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\obj\Debug\AdminCli.g.cs
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\WpfInterfaz\obj\Debug\AdminCli.baml
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\bin\Debug\WpfInterfaz.exe.config
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\bin\Debug\WpfInterfaz.exe
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\bin\Debug\WpfInterfaz.pdb
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\bin\Debug\Biblioteca OnBreak.dll
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\bin\Debug\ControlzEx.dll
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\bin\Debug\MahApps.Metro.dll
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\bin\Debug\System.Windows.Interactivity.dll
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\bin\Debug\Biblioteca OnBreak.pdb
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\bin\Debug\ControlzEx.pdb
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\bin\Debug\MahApps.Metro.pdb
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\bin\Debug\MahApps.Metro.xml
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz.csprojAssemblyReference.cache
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\obj\Debug\Resources\Icons.baml
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\obj\Debug\Resources\IconsNonShared.baml
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\obj\Debug\AdminCli.g.cs
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\obj\Debug\AdminContratos.g.cs
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\obj\Debug\MainWindow.g.cs
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\obj\Debug\App.g.cs
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz_MarkupCompile.cache
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz_MarkupCompile.lref
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\obj\Debug\App.baml
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\obj\Debug\AdminCli.baml
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\obj\Debug\AdminContratos.baml
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\obj\Debug\MainWindow.baml
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz.g.resources
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz.Properties.Resources.resources
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz.csproj.GenerateResource.cache
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz.csproj.CoreCompileInputs.cache
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz.csproj.CopyComplete
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz.exe
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz.pdb
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\bin\Debug\WpfInterfaz.exe.config
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\bin\Debug\WpfInterfaz.exe
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\bin\Debug\WpfInterfaz.pdb
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\bin\Debug\Biblioteca OnBreak.dll
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\bin\Debug\ControlzEx.dll
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\bin\Debug\MahApps.Metro.dll
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\bin\Debug\System.Windows.Interactivity.dll
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\bin\Debug\Biblioteca OnBreak.pdb
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\bin\Debug\ControlzEx.pdb
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\bin\Debug\MahApps.Metro.pdb
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\bin\Debug\MahApps.Metro.xml
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz.csprojAssemblyReference.cache
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\obj\Debug\Resources\Icons.baml
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\obj\Debug\Resources\IconsNonShared.baml
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\obj\Debug\AdminCli.g.cs
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\obj\Debug\AdminContratos.g.cs
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\obj\Debug\MainWindow.g.cs
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\obj\Debug\App.g.cs
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz_MarkupCompile.cache
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz_MarkupCompile.lref
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\obj\Debug\App.baml
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\obj\Debug\AdminCli.baml
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\obj\Debug\AdminContratos.baml
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\obj\Debug\MainWindow.baml
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz.g.resources
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz.Properties.Resources.resources
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz.csproj.GenerateResource.cache
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz.csproj.CoreCompileInputs.cache
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz.csproj.CopyComplete
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz.exe
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\WpfInterfaz\obj\Debug\WpfInterfaz.pdb

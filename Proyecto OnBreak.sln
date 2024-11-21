@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteca OnBreak", "Proyecto On-Breack\Biblioteca OnBreak.csproj", "{C34EDAA1-E7B4-484B-97C2-7CF07265AD67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfInterfaz", "WpfInterfaz\WpfInterfaz.csproj", "{26F15E77-A935-4E5C-BB3F-179A30FE40B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C34EDAA1-E7B4-484B-97C2-7CF07265AD67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C34EDAA1-E7B4-484B-97C2-7CF07265AD67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C34EDAA1-E7B4-484B-97C2-7CF07265AD67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C34EDAA1-E7B4-484B-97C2-7CF07265AD67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26F15E77-A935-4E5C-BB3F-179A30FE40B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F15E77-A935-4E5C-BB3F-179A30FE40B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F15E77-A935-4E5C-BB3F-179A30FE40B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F15E77-A935-4E5C-BB3F-179A30FE40B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {624EB3DF-33BF-4FFC-BC20-EA8AACC77EBD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0riwJhPFMtkFDTBOVCvc/a43H/xe0YOElCLRFtsAYs1Oc6aTq5tROxp5oINDgCJHDNNSFZWm0LnZczadvbeH3A==",
+  "success": true,
+  "projectFilePath": "D:\\ShinigamiWalin\\Documents\\Duoc UC\\3er Semestre\\Desarrollo de Software\\NetFramework\\Proyecto On-Breack\\Proyecto On-Breack\\Biblioteca OnBreak.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

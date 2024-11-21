@@ -1,0 +1,27 @@
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\Proyecto On-Breack\bin\Debug\netstandard2.0\Biblioteca OnBreak.deps.json
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\Proyecto On-Breack\bin\Debug\netstandard2.0\Biblioteca OnBreak.dll
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\Proyecto On-Breack\bin\Debug\netstandard2.0\Biblioteca OnBreak.pdb
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\Proyecto On-Breack\obj\Debug\netstandard2.0\Biblioteca OnBreak.csproj.CoreCompileInputs.cache
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\Proyecto On-Breack\obj\Debug\netstandard2.0\Biblioteca OnBreak.AssemblyInfoInputs.cache
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\Proyecto On-Breack\obj\Debug\netstandard2.0\Biblioteca OnBreak.AssemblyInfo.cs
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\Proyecto On-Breack\obj\Debug\netstandard2.0\Biblioteca OnBreak.dll
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\Proyecto On-Breack\obj\Debug\netstandard2.0\Biblioteca OnBreak.pdb
+C:\Users\AxlBoy\source\repos\Proyecto On-Breack\Proyecto On-Breack\obj\Debug\netstandard2.0\Biblioteca OnBreak.csprojAssemblyReference.cache
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\Proyecto On-Breack\bin\Debug\netstandard2.0\Biblioteca OnBreak.deps.json
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\Proyecto On-Breack\bin\Debug\netstandard2.0\Biblioteca OnBreak.dll
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\Proyecto On-Breack\bin\Debug\netstandard2.0\Biblioteca OnBreak.pdb
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\Proyecto On-Breack\obj\Debug\netstandard2.0\Biblioteca OnBreak.csprojAssemblyReference.cache
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\Proyecto On-Breack\obj\Debug\netstandard2.0\Biblioteca OnBreak.csproj.CoreCompileInputs.cache
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\Proyecto On-Breack\obj\Debug\netstandard2.0\Biblioteca OnBreak.AssemblyInfoInputs.cache
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\Proyecto On-Breack\obj\Debug\netstandard2.0\Biblioteca OnBreak.AssemblyInfo.cs
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\Proyecto On-Breack\obj\Debug\netstandard2.0\Biblioteca OnBreak.dll
+D:\ShinigamiWalin\Descargas\Proyecto On-Breack\Proyecto On-Breack\obj\Debug\netstandard2.0\Biblioteca OnBreak.pdb
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\Proyecto On-Breack\bin\Debug\netstandard2.0\Biblioteca OnBreak.deps.json
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\Proyecto On-Breack\bin\Debug\netstandard2.0\Biblioteca OnBreak.dll
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\Proyecto On-Breack\bin\Debug\netstandard2.0\Biblioteca OnBreak.pdb
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\Proyecto On-Breack\obj\Debug\netstandard2.0\Biblioteca OnBreak.csprojAssemblyReference.cache
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\Proyecto On-Breack\obj\Debug\netstandard2.0\Biblioteca OnBreak.csproj.CoreCompileInputs.cache
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\Proyecto On-Breack\obj\Debug\netstandard2.0\Biblioteca OnBreak.AssemblyInfoInputs.cache
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\Proyecto On-Breack\obj\Debug\netstandard2.0\Biblioteca OnBreak.AssemblyInfo.cs
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\Proyecto On-Breack\obj\Debug\netstandard2.0\Biblioteca OnBreak.dll
+D:\ShinigamiWalin\Documents\Duoc UC\3er Semestre\Desarrollo de Software\NetFramework\Proyecto On-Breack\Proyecto On-Breack\obj\Debug\netstandard2.0\Biblioteca OnBreak.pdb
